@@ -2,7 +2,7 @@
   "name": "portofolio-fahmi",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://mifahh.github.io/web-portofolio/",
+  "homepage": "https://mifahh.github.io/web-portofolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
