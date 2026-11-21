@@ -6,7 +6,6 @@ web_modules/
 .pnp.js
 
 # Build output (Vite)
-dist/
 build/
 out/
 .next/
